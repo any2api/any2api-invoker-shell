@@ -1,6 +1,6 @@
 {
   "name": "any2api-invoker-shell",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Johannes Wettinger <mail@jojow.de>",
   "description": "Shell invoker for any2api",
   "repository": {
